@@ -8,10 +8,10 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main()
+{
 
-
-
-
+	cout << "HEY IT gsnjfgnsfns.f";
+	return 0;
 
 }
